@@ -1,0 +1,9 @@
+data_stensola_rjg/*
+archive/*
+
+*.tif
+*.png
+*.fig
+
+*.asv
+Thumbs.db
